@@ -38,7 +38,7 @@ Before running the application, make sure you have the following installed:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/youtube-summary-ai.git
+git clone https://github.com/Shivp1413/youtube-summary-ai.git
 cd youtube-summary-ai
 ```
 
