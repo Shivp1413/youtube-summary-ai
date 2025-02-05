@@ -1,3 +1,12 @@
+title: Youtube Summary Ai
+emoji: 🎥
+colorFrom: pink
+colorTo: red
+sdk: streamlit
+sdk_version: 1.42.0
+app_file: app.py
+pinned: false
+
 # YouTube Summary AI
 
 Transform YouTube videos into concise notes and summaries using fully local AI processing. This application runs entirely on your machine with no external API calls, ensuring complete privacy and security of your data.
