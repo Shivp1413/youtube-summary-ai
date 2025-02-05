@@ -12,7 +12,7 @@ pinned: false
 # YouTube Summary AI
 
 Transform YouTube videos into concise notes and summaries using fully local AI processing. This application runs entirely on your machine with no external API calls, ensuring complete privacy and security of your data.
-
+Demo: https://huggingface.co/spaces/Shivp1413/youtube-summary-ai 
 ![Demo](assets/demo.gif)
 
 ## Key Features
